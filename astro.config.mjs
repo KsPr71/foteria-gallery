@@ -15,11 +15,11 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Newborns', link: '/catalogo/newborn/' },
-						{ label: 'Newborns', link: '/catalogo/newborn/' },
+						{ label: 'Recien nacidos', link: '/catalogo/recien-nacidos/' },
 					],
 				},
 				{
-					label: 'Reference',
+					label: 'Fotografías temáticas',
 					autogenerate: { directory: 'reference' },
 				},
 			],
