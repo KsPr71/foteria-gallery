@@ -7,12 +7,12 @@ hero:
   image:
     file: ../../assets/logo.jpg
   actions:
-    - text: Example Guide
-      link: /guides/example/
+    - text: Catálogo
+      link: /catalogo/newborn/
       icon: right-arrow
       variant: primary
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
+    - text: Puedes buscarnos en Facebook
+      link: https://www.facebook.com/foteriaestudio?mibextid=kFxxJD
       icon: external
 ---
 
@@ -21,16 +21,34 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 ## Que puedes encontrar aquí
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Impresionantes fotografías" icon="pencil">
+		Fotografías bellas de colores vívidos para atesorar los momentos mas bellos junto a los mas pequeños.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="Disfruta de tu bebé " icon="add-document">
+		Haz un seguimiento del desarrollo de tu bebé en lindas fotografías mes a mes
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="Fotografías temáticas" icon="setting">
+		Disfruta la inmersión en mundos de fantasía junto a los pequeños con lindas fotografías temáticas.
 	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Especiales de temporada" icon="setting">
+		Cada temporada requiere de fotografías especialies que no debes perderte.
 	</Card>
 </CardGrid>
+import { Tabs, TabItem } from '@astrojs/starlight/components';
+
+<Tabs>
+  <TabItem label="Quienes somos">
+	<div> Somos un pequeño grupo de profesionales enfrascados en la misión de hacer bellos recuerdos de la familia</div>
+  </TabItem>
+  <TabItem label="Contáctanos">
+   <div> La Fotería radica en la provincia Camagüey, calle Ignacio Agramonte número 110, muy cerca del recinto ferial </div>
+   <div> Puedes contactarnos a traves del telefono: 53710376 </div>
+  </TabItem>
+    <TabItem label="Nuestras ofertas">
+   <div> </div>
+   <div>  </div>
+  </TabItem>
+</Tabs>
+
+
+
