@@ -22,10 +22,10 @@ export default defineConfig({
 				{
 					label: 'Fotografías temáticas',
 					items: [
-						{label: 'Princesas de Disney', link: '/catalogo/newborn/'},
-						{label: 'Mi futura profesión', link: '/catalogo/newborn/'},
-						{label: 'Superhéroes', link: '/catalogo/newborn/'},
-						{label: 'Junto a mis mascotas', link: '/catalogo/newborn/'}
+						{label: 'Princesas de Disney', link: '/catalogo/disney/'},
+						{label: 'Mi futura profesión', link: '/catalogo/profesiones/'},
+						{label: 'Superhéroes', link: '/catalogo/superheroes/'},
+						{label: 'Junto a mis mascotas', link: '/catalogo/mascotas/'}
 
 				],
 				},
