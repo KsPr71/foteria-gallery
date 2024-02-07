@@ -11,12 +11,18 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Catalogo',
+					label: 'Etapas de la vida',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Newborns', link: '/catalogo/newborn/' },
 						{ label: 'Mes a mes', link: '/catalogo/meses/' },
 						{ label: 'Mi primer añito', link: '/catalogo/first-year/' },
+						{ label: 'Primera infancia', link: '/catalogo/infancia/' },
+						{ label: 'Ya voy a la escuela', link: '/catalogo/escuela/' },
+						{ label: 'Adolescentes', link: '/catalogo/adolescentes/' },
+						{ label: 'Nuestra boda', link: '/catalogo/boda/' },
+						{ label: 'Recuerdos de mi embarazo', link: '/catalogo/embarazo/' },
+						
 					],
 				},
 				{
@@ -32,11 +38,11 @@ export default defineConfig({
 				{
 					label: 'Especiales de temporada',
 					items: [
-						{label: 'Día del amor', link: '/catalogo/newborn/'},
-						{label: 'Para mamá', link: '/catalogo/newborn/'},
-						{label: 'Con mi papi', link: '/catalogo/newborn/'},
-						{label: 'Halloween', link: '/catalogo/newborn/'},
-						{label: 'Navidad', link: '/catalogo/newborn/'}
+						{label: 'Día del amor', link: '/catalogo/amor/'},
+						{label: 'Para mamá', link: '/catalogo/mama/'},
+						{label: 'Con mi papi', link: '/catalogo/papa/'},
+						{label: 'Halloween', link: '/catalogo/halloween/'},
+						{label: 'Navidad', link: '/catalogo/navidad/'}
 
 				],
 				},
