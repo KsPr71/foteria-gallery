@@ -7,11 +7,11 @@ hero:
   image:
     file: ../../assets/logo.jpg
   actions:
-    - text: Example Guide
-      link: /guides/example/
+    - text: Catálogo
+      link: /catalogo/newborn/
       icon: right-arrow
       variant: primary
-    - text: Read the Starlight docs
+    - text: Accede a nuestro catálogo
       link: https://starlight.astro.build
       icon: external
 ---
@@ -19,6 +19,29 @@ hero:
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
 ## Que puedes encontrar aquí
+
+
+
+import { Tabs, TabItem } from '@astrojs/starlight/components';
+
+ 
+
+
+<Tabs>
+  <TabItem label="Newborns">
+  El bebé ha llegado y aquí están sus primeras fotografías. No te las pierdas
+
+import { Image } from "astro:assets";
+import primeraImagen from "../../assets/logo.jpg";
+import segundaImagen from "../../assets/logo.jpg";
+
+
+<Image src={primeraImagen} alt="..." with="150" height= "150" />
+Este es fulanito
+<Image src={segundaImagen	} alt="..." with="150" height= "150" />
+  </TabItem>
+  <TabItem label="Moons">Io, Europa, Ganymede</TabItem>
+</Tabs>
 
 <CardGrid stagger>
 	<Card title="Update content" icon="pencil">
