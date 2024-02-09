@@ -15,7 +15,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Newborns', link: '/catalogo/newborn/' },
-						{ label: 'Mes a mes', link: '/catalogo/meses/' },
+						{ label: 'Mes a mes', link: '/catalogo/meses/meses/' },
 						{ label: 'Mi primer añito', link: '/catalogo/first-year/' },
 						{ label: 'Primera infancia', link: '/catalogo/infancia/' },
 						{ label: 'Ya voy a la escuela', link: '/catalogo/escuela/' },
