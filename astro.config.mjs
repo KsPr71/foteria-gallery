@@ -34,11 +34,25 @@ export default defineConfig({
 
 				],
 				},
+
 				{
 					label: 'Especiales de temporada',
 					items: [
 						{label: 'Halloween', link: '/catalogo/halloween/'},
 						{label: 'Navidad', link: '/catalogo/navidad/'}
+
+				],
+				},
+				{
+					label: 'Nuestras ofertas',
+					items: [
+						{label: 'Newborns y bebés', link: '/catalogo/nb/'},
+						{label: 'Fotografías individuales', link: '/catalogo/individuales/'},
+						{label: 'Fotos y Books', link: '/catalogo/ofertas/'},
+						{label: 'Detallitos', link: '/catalogo/detallitos/'},
+						{label: 'Embarazada', link: '/catalogo/emb/'},
+						{label: 'Términos', link: '/catalogo/terminos/'},
+						{label: 'Aclaraciones', link: '/catalogo/aclaraciones/'},
 
 				],
 				},
