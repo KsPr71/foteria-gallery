@@ -9,7 +9,3 @@ image:
 tags: ["astro", "bloguear", "aprender en público"]
 ---
 ![Un cielo estrellado.](../../../assets/navidad/a.JPG)
-...
-A otra cosa
-...
-![otra cosa mariposa](../../../assets/navidad/b.JPG).
