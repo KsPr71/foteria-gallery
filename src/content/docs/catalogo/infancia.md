@@ -15,4 +15,4 @@ Descubre los adelantos de los más pequeños.
 
 ![Infancia][path]
 
-[path]: ../../../assets/infancia/01.jpg
+[path]: ../../../assets/infancia/01.JPG
