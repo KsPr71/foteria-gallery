@@ -14,26 +14,43 @@ hero:
     - text: Puedes buscarnos en Facebook
       link: https://www.facebook.com/foteriaestudio?mibextid=kFxxJD
       icon: external
+    - text: Ofertas
+      link: /ofertas/
+      icon: external
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Que puedes encontrar aquí
+import { LinkCard } from '@astrojs/starlight/components';
 
-<CardGrid stagger>
-	<Card title="Impresionantes fotografías" icon="pencil">
-		Fotografías bellas de colores vívidos para atesorar los momentos mas bellos junto a los mas pequeños.
-	</Card>
-	<Card title="Disfruta de tu bebé " icon="add-document">
-		Haz un seguimiento del desarrollo de tu bebé en lindas fotografías mes a mes
-	</Card>
-	<Card title="Fotografías temáticas" icon="setting">
-		Disfruta la inmersión en mundos de fantasía junto a los pequeños con lindas fotografías temáticas.
-	</Card>
-	<Card title="Especiales de temporada" icon="setting">
-		Cada temporada requiere de fotografías especialies que no debes perderte.
-	</Card>
+### Que puedes encontrar aquí
+
+
+<LinkCard
+  title="Impresionantes fotografias"
+  description="Disfruta de las mejores fotografías de los más pequeños de la familia"
+  href="/catalogo/newborn/"
+  icon="pencil" />
+
+<CardGrid>
+  <LinkCard
+    title="Fotografías temáticas"
+    description="Participa en las ilusiones y magia de nuestros niños a través de las fotografías temáticas"
+    href="/catalogo/disney/"
+    icon="pencil"
+  />
+  <LinkCard title="Especiales de temporada" 
+  description="Algunas épocas del año resultan especiales y merecen quedar en el recuerdo mediante fotografías alucinantes"
+  href="/catalogo/halloween/" 
+  icon="pencil"/>
 </CardGrid>
+
+<LinkCard
+  title="Nuestras ofertas"
+  description="No te pierdas nuestras ofertas y servicios"
+  href="/catalogo/nb/"
+  icon="pencil" />
+
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
 <Tabs>
