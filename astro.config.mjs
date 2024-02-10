@@ -20,8 +20,8 @@ export default defineConfig({
 						{ label: 'Primera infancia', link: '/catalogo/infancia/' },
 						{ label: 'Ya voy a la escuela', link: '/catalogo/escuela/' },
 						{ label: 'Adolescentes', link: '/catalogo/adolescentes/' },
-						{ label: 'Nuestra boda', link: '/catalogo/boda/' },
 						{ label: 'Recuerdos de mi embarazo', link: '/catalogo/embarazada/'},
+						{ label: 'La familia', link: '/catalogo/familia/'}
 						
 					],
 				},
@@ -30,7 +30,6 @@ export default defineConfig({
 					items: [
 						{label: 'Princesas de Disney', link: '/catalogo/disney/'},
 						{label: 'Mi futura profesión', link: '/catalogo/profesiones/'},
-						{label: 'Superhéroes', link: '/catalogo/superheroes/'},
 						{label: 'Junto a mis mascotas', link: '/catalogo/mascotas/'}
 
 				],
