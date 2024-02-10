@@ -9,7 +9,7 @@ image:
 tags: ["astro", "bloguear", "aprender en público"]
 ---
 
-Descubre los adelantos de los más pequeños.
+
 
 ## Primera infancia
 
