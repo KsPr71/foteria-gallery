@@ -14,5 +14,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 ## Primera infancia
 
 ![Infancia][path]
+![Infancia][path2]
 
 [path]: ../../../assets/infancia/01.JPG
+[path2]: ../../../assets/infancia/02.JPG
