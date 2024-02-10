@@ -9,7 +9,9 @@ image:
 tags: ["astro", "bloguear", "aprender en público"]
 ---
 
-Llegó la Navidad y no te pierdas las mejores fotografías de La Fotería
+Descubre los adelantos de los más pequeños.
+
+## Primera infancia
 
 ![Infancia][path]
 
