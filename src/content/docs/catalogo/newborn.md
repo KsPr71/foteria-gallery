@@ -18,7 +18,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![Newborn][path3]
 ![Newborn][path4]
 
-[path]: ../../../assets/newborn/01.JPG
-[path2]: ../../../assets/newborn/02.JPG
+[path]: ../../../assets/newborn/01.jpg
+[path2]: ../../../assets/newborn/02.jpg
 [path3]: ../../../assets/newborn/03.JPG
 [path4]: ../../../assets/newborn/04.JPG
