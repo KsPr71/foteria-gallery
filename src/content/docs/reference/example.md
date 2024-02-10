@@ -11,12 +11,12 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 Llegó la Navidad y no te pierdas las mejores fotografías de La Fotería
 
-![Un cielo estrellado.](../../../assets/navidad/a.JPG)
+![Navidad](../../../assets/navidad/a.JPG)
 
-![Un cielo estrellado.](../../../assets/navidad/b.jpg)
+![Navidad](../../../assets/navidad/b.jpg)
 
-![Un cielo estrellado.][path]
-![Un cielo estrellado.][path2]
+![Navidad][path]
+![Navidad][path2]
 
 [path]: ../../../assets/navidad/c.JPG
 [path2]: ../../../assets/navidad/d.JPG
