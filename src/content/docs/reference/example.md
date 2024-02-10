@@ -8,5 +8,5 @@ image:
     alt: 'El logotipo completo de Astro.'
 tags: ["astro", "bloguear", "aprender en público"]
 ---
+![Un cielo estrellado.](../../../assets/navidad/a.JPG),
 ![Un cielo estrellado.](../../../assets/navidad/a.JPG)
-![Un cielo estrellado.](../../../assets/navidad/b.JPG)
