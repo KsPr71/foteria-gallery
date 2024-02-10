@@ -14,5 +14,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 #### En la dulce espera...
 
 ![embarazada][path]
+![embarazada][path2]
 
 [path]: ../../../assets/embarazada/01.jpg
+[path2]: ../../../assets/embarazada/02.JPG
