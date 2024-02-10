@@ -13,6 +13,6 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 ## En la dulce espera
 
-![Newborn][path]
+![embarazada][path]
 
-[path]: ../../../assets/embarazada/01.JPG
+[path]: ../../../assets/embarazada/01.jpg
