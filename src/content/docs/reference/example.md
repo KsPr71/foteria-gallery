@@ -9,3 +9,4 @@ image:
 tags: ["astro", "bloguear", "aprender en público"]
 ---
 ![Un cielo estrellado.](../../../assets/navidad/a.JPG)
+![Un cielo estrellado.](../../../assets/embarazada/01.jpg)
