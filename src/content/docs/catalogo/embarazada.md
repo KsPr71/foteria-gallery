@@ -15,6 +15,8 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 ![embarazada][path]
 ![embarazada][path2]
+![embarazada][path3]
 
 [path]: ../../../assets/embarazada/01.jpg
 [path2]: ../../../assets/embarazada/02.JPG
+[path3]: ../../../assets/embarazada/03.JPG
