@@ -1,13 +1,16 @@
 ---
-title: 'Mi primera publicación en el blog'
-pubDate: 2022-07-01
-description: 'Este es la primera publicación de mi nuevo blog Astro.'
-author: 'Alumno de Astro'
+title: 'Llegó la Navidad'
+pubDate: 2024-Febrero
+description: 'Llegó la navidad.'
+author: 'La Foteria'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'El logotipo completo de Astro.'
 tags: ["astro", "bloguear", "aprender en público"]
 ---
+
+Llegó la Navidad y no te pierdas las mejores fotografías de La Fotería
+
 ![Un cielo estrellado.](../../../assets/navidad/a.JPG)
-![Un cielo estrellado.](../../../assets/embarazada/01.jpg)
+
 ![Un cielo estrellado.](../../../assets/navidad/b.jpg)
