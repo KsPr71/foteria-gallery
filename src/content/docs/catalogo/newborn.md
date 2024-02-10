@@ -1,5 +1,5 @@
 ---
-title: 'El bebé ha llegado'
+title: 'Newborns'
 pubDate: 2024-Febrero
 description: 'Primera infancia.'
 author: 'La Foteria'
@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-#### Descubre la felicidad en los primeros días
+#### El bebé ha llegado y con el descubre toda la felicidad del mundo. Guarda inolvidables momentos en estas fotografías
 
 ![Newborn][path]
 ![Newborn][path2]

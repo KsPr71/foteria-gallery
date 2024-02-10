@@ -37,9 +37,6 @@ export default defineConfig({
 				{
 					label: 'Especiales de temporada',
 					items: [
-						{label: 'Día del amor', link: '/catalogo/amor/'},
-						{label: 'Para mamá', link: '/catalogo/mama/'},
-						{label: 'Con mi papi', link: '/catalogo/papa/'},
 						{label: 'Halloween', link: '/catalogo/halloween/'},
 						{label: 'Navidad', link: '/catalogo/navidad/'}
 
