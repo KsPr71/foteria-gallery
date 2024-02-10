@@ -9,7 +9,7 @@ image:
 tags: ["astro", "bloguear", "aprender en público"]
 ---
 
-Llegó la Navidad y no te pierdas las mejores fotografías de La Fotería
+#### Llegó la Navidad y no te pierdas las mejores fotografías de La Fotería
 
 ![Navidad](../../../assets/navidad/a.JPG)
 

@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-## Descubre los avances del bebé
+#### Descubre los avances del bebé
 
 ![months][path]
 ![months][path2]

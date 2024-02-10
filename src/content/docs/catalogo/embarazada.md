@@ -1,5 +1,5 @@
 ---
-title: 'En espera de mi bebé'
+title: 'Recuerdos de mi embarazo'
 pubDate: 2024-Febrero
 description: 'Embarazadas'
 author: 'La Foteria'
@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-## En la dulce espera
+#### En la dulce espera...
 
 ![embarazada][path]
 

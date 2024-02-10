@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-## Primera infancia
+#### Primera infancia
 
 ![Infancia][path]
 ![Infancia][path2]

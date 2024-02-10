@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-## Mis fotografías más especiales
+#### Mis fotografías más especiales
 
 ![escuela][path]
 ![escuela][path2]
