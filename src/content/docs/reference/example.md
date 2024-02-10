@@ -16,5 +16,7 @@ Llegó la Navidad y no te pierdas las mejores fotografías de La Fotería
 ![Un cielo estrellado.](../../../assets/navidad/b.jpg)
 
 ![Un cielo estrellado.][path]
+![Un cielo estrellado.][path2]
 
 [path]: ../../../assets/navidad/c.JPG
+[path2]: ../../../assets/navidad/d.JPG
