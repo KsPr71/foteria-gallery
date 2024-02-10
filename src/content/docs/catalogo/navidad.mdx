@@ -3,11 +3,8 @@ title: Llego la Navidad
 ---
 <h4> Una temporada para transmitir y recibir amor</h4>
 ---
-import { Image } from "astro:assets";
-import primeraImagen from "./public/a.JPG";
+import { Picture } from "astro:assets";
+import primeraImagen from "../../../assets/newborn/02.jpg";
 
-
-
-<Image src={primeraImagen} alt="..." with="wrap-content" height= "wrap-content" />
-
+<Picture src={primeraImagen} formats={['avif', 'webp']} alt="Una descripción de mi imagen." />
 
