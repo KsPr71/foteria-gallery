@@ -17,8 +17,12 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![months][path2]
 ![months][path3]
 ![months][path4]
+![months][path5]
+![months][path6]
 
 [path]: ../../../assets/meses/01.JPG
 [path2]: ../../../assets/meses/02.JPG
 [path3]: ../../../assets/meses/03.JPG
 [path4]: ../../../assets/meses/04.JPG
+[path5]: ../../../assets/meses/05.JPG
+[path6]: ../../../assets/meses/06.JPG
