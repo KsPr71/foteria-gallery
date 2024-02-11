@@ -21,10 +21,10 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![embarazada][path6]
 ![embarazada][path7]
 
-[path]: ../../../assets/embarazada/01.jpg
-[path2]: ../../../assets/embarazada/02.JPG
-[path3]: ../../../assets/embarazada/03.JPG
-[path4]: ../../../assets/embarazada/04.JPG
-[path5]: ../../../assets/embarazada/05.JPG
-[path6]: ../../../assets/embarazada/06.JPG
-[path7]: ../../../assets/embarazada/07.JPG
+[path]: ../../../assets/embarazada/01.webp
+[path2]: ../../../assets/embarazada/02.webp
+[path3]: ../../../assets/embarazada/03.webp
+[path4]: ../../../assets/embarazada/04.webp
+[path5]: ../../../assets/embarazada/05.webp
+[path6]: ../../../assets/embarazada/06.webp
+[path7]: ../../../assets/embarazada/07.webp

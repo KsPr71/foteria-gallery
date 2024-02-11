@@ -18,7 +18,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![Infancia][path3]
 ![Infancia][path4]
 
-[path]: ../../../assets/infancia/01.JPG
-[path2]: ../../../assets/infancia/02.JPG
-[path3]: ../../../assets/infancia/03.JPG
-[path4]: ../../../assets/infancia/04.JPG
+[path]: ../../../assets/infancia/01.webp
+[path2]: ../../../assets/infancia/02.webp
+[path3]: ../../../assets/infancia/03.webp
+[path4]: ../../../assets/infancia/04.webp

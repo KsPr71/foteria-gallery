@@ -18,7 +18,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![escuela][path3]
 ![escuela][path4]
 
-[path]: ../../../assets/escuela/01.JPG
-[path2]: ../../../assets/escuela/02.JPG
-[path3]: ../../../assets/escuela/03.JPG
-[path4]: ../../../assets/escuela/04.JPG
+[path]: ../../../assets/escuela/01.webp
+[path2]: ../../../assets/escuela/02.webp
+[path3]: ../../../assets/escuela/03.webp
+[path4]: ../../../assets/escuela/04.webp

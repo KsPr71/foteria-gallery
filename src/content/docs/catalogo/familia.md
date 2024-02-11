@@ -20,9 +20,9 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![familia][path5]
 ![familia][path6]
 
-[path]: ../../../assets/familia/01.jpg
-[path2]: ../../../assets/familia/02.JPG
-[path3]: ../../../assets/familia/03.JPG
-[path4]: ../../../assets/familia/04.JPG
-[path5]: ../../../assets/familia/05.JPG
-[path6]: ../../../assets/familia/06.JPG
+[path]: ../../../assets/familia/01.webp
+[path2]: ../../../assets/familia/02.webp
+[path3]: ../../../assets/familia/03.webp
+[path4]: ../../../assets/familia/04.webp
+[path5]: ../../../assets/familia/05.webp
+[path6]: ../../../assets/familia/06.webp

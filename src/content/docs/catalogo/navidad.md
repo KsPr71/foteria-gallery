@@ -11,12 +11,12 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 #### Llegó la Navidad y no te pierdas las mejores fotografías de La Fotería
 
-![Navidad](../../../assets/navidad/a.JPG)
+![Navidad](../../../assets/navidad/a.webp)
 
-![Navidad](../../../assets/navidad/b.jpg)
+![Navidad](../../../assets/navidad/b.webp)
 
 ![Navidad][path]
 ![Navidad][path2]
 
-[path]: ../../../assets/navidad/c.JPG
-[path2]: ../../../assets/navidad/d.JPG
+[path]: ../../../assets/navidad/c.webp
+[path2]: ../../../assets/navidad/d.webp

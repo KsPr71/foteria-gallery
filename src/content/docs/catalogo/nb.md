@@ -15,4 +15,4 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 ![preciosNewborns][path]
 
-[path]: ../../../assets/ofertas/bebes.jpg
+[path]: ../../../assets/ofertas/bebes.webp

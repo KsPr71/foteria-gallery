@@ -19,8 +19,8 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![disney][path4]
 ![disney][path5]
 
-[path]: ../../../assets/princesas/01.JPG
-[path2]: ../../../assets/princesas/02.JPG
-[path3]: ../../../assets/princesas/03.JPG
-[path4]: ../../../assets/princesas/04.JPG
-[path5]: ../../../assets/princesas/05.JPG
+[path]: ../../../assets/princesas/01.webp
+[path2]: ../../../assets/princesas/02.webp
+[path3]: ../../../assets/princesas/03.webp
+[path4]: ../../../assets/princesas/04.webp
+[path5]: ../../../assets/princesas/05.webp

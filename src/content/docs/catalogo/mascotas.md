@@ -20,9 +20,9 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![mascotas][path5]
 ![mascotas][path6]
 
-[path]: ../../../assets/mascotas/01.JPG
-[path2]: ../../../assets/mascotas/02.JPG
-[path3]: ../../../assets/mascotas/03.JPG
-[path4]: ../../../assets/mascotas/04.JPG
-[path5]: ../../../assets/mascotas/05.JPG
-[path6]: ../../../assets/mascotas/06.JPG
+[path]: ../../../assets/mascotas/01.webp
+[path2]: ../../../assets/mascotas/02.webp
+[path3]: ../../../assets/mascotas/03.webp
+[path4]: ../../../assets/mascotas/04.webp
+[path5]: ../../../assets/mascotas/05.webp
+[path6]: ../../../assets/mascotas/06.webp

@@ -20,9 +20,9 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![halloween][path5]
 ![halloween][path6]
 
-[path]: ../../../assets/halloween/01.JPG
-[path2]: ../../../assets/halloween/02.JPG
-[path3]: ../../../assets/halloween/03.JPG
-[path4]: ../../../assets/halloween/04.jpg
-[path5]: ../../../assets/halloween/05.JPG
-[path6]: ../../../assets/halloween/06.jpg
+[path]: ../../../assets/halloween/01.webp
+[path2]: ../../../assets/halloween/02.webp
+[path3]: ../../../assets/halloween/03.webp
+[path4]: ../../../assets/halloween/04.webp
+[path5]: ../../../assets/halloween/05.webp
+[path6]: ../../../assets/halloween/06.webp

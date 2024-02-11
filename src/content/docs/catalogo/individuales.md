@@ -15,4 +15,4 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 ![individuales][path]
 
-[path]: ../../../assets/ofertas/individuales.jpg
+[path]: ../../../assets/ofertas/individuales.webp

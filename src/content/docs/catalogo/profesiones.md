@@ -21,10 +21,10 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![profesiones][path6]
 ![profesiones][path7]
 
-[path]: ../../../assets/profesiones/01.jpg
-[path2]: ../../../assets/profesiones/02.JPG
-[path3]: ../../../assets/profesiones/03.JPG
-[path4]: ../../../assets/profesiones/04.JPG
-[path5]: ../../../assets/profesiones/05.JPG
-[path6]: ../../../assets/profesiones/06.JPG
-[path7]: ../../../assets/profesiones/07.JPG
+[path]: ../../../assets/profesiones/01.webp
+[path2]: ../../../assets/profesiones/02.webp
+[path3]: ../../../assets/profesiones/03.webp
+[path4]: ../../../assets/profesiones/04.webp
+[path5]: ../../../assets/profesiones/05.webp
+[path6]: ../../../assets/profesiones/06.webp
+[path7]: ../../../assets/profesiones/07.webp

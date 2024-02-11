@@ -18,7 +18,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![months][path3]
 ![months][path4]
 
-[path]: ../../../assets/first-year/01.JPG
-[path2]: ../../../assets/first-year/02.JPG
-[path3]: ../../../assets/first-year/03.JPG
-[path4]: ../../../assets/first-year/04.JPG
+[path]: ../../../assets/first-year/01.webp
+[path2]: ../../../assets/first-year/02.webp
+[path3]: ../../../assets/first-year/03.webp
+[path4]: ../../../assets/first-year/04.webp
