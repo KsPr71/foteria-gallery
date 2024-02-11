@@ -20,7 +20,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![adolescentes][path5]
 
 [path]: ../../../assets/adolescentes/01.webp
-[path2]: ../../../assets/adolescentes/02.JPG
-[path3]: ../../../assets/adolescentes/03.JPG
-[path4]: ../../../assets/adolescentes/04.JPG
-[path5]: ../../../assets/adolescentes/05.JPG
+[path2]: ../../../assets/adolescentes/02.webp
+[path3]: ../../../assets/adolescentes/03.webp
+[path4]: ../../../assets/adolescentes/04.webp
+[path5]: ../../../assets/adolescentes/05.webp
