@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-#### El bebé ha llegado y con el descubre toda la felicidad del mundo. Guarda inolvidables momentos en estas fotografías
+#### Un nuevo capítulo de amor y felicidad comienza con la llegada de este hermoso bebé. ¡Felicidades!
 
 ![Newborn][path]
 ![Newborn][path2]
