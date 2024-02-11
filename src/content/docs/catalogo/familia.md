@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-#### Todo el amor del mundo en nuestra familia
+#### Toda tu familia está muy feliz de tenerte
 
 ![familia][path]
 ![familia][path2]

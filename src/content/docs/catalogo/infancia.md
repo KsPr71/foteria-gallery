@@ -1,5 +1,5 @@
 ---
-title: 'Descubre los adelantos de los más pequeños'
+title: 'Mi primera infancia'
 pubDate: 2024-Febrero
 description: 'Primera infancia.'
 author: 'La Foteria'
@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-#### Primera infancia
+#### Siempre hay un momento en la infancia cuando la puerta se abre y deja entrar al futuro
 
 ![Infancia][path]
 ![Infancia][path2]

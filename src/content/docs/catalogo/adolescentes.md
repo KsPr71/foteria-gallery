@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-#### La transición mas bella de los niños
+#### No hay nada mas hermoso que ver la persona en la que te estás convirtiendo
 
 ![adolescentes][path]
 ![adolescentes][path2]
