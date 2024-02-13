@@ -32,4 +32,3 @@ tags: ["astro", "bloguear", "aprender en público"]
 [path7]: ../../../assets/embarazada/07.webp
 [path8]: ../../../assets/embarazada/08.webp
 [path9]: ../../../assets/embarazada/09.webp
-
