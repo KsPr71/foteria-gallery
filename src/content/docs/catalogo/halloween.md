@@ -1,7 +1,7 @@
 ---
 title: '¿Truco o trato?'
 pubDate: 2024-Febrero
-description: 'Adolescentes'
+description: 'Halloween'
 author: 'La Foteria'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'

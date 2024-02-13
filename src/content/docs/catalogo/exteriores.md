@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-#### Disfruta y juega de las hermosas locaciones de la ciudad
+#### Juega mientras disfrutas de las hermosas locaciones de la ciudad
 
 ![adolescentes][path]
 ![adolescentes][path2]
