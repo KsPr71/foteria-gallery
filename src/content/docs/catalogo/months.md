@@ -1,7 +1,7 @@
 ---
 title: 'Los primeros meses'
 pubDate: 2024-Febrero
-description: 'Embarazadas'
+description: 'meses'
 author: 'La Foteria'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-#### Descubre los avances del bebé
+#### No existe mada más profundo, más infinito, más eterno que el océano en la expresión de los ojos de un niño pequeño cuando se despierta por la mañana y susurra o se ríe porque ve el sol brillando
 
 ![months][path]
 ![months][path2]

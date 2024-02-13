@@ -1,7 +1,7 @@
 ---
-title: 'Recuerdos de mi embarazo'
+title: 'La dulce espera'
 pubDate: 2024-Febrero
-description: 'Embarazadas'
+description: 'En la dulce espera'
 author: 'La Foteria'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
@@ -11,7 +11,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 
 
 
-#### En la dulce espera...
+#### Eres el mejor regalo que hemos recibido. Esperamos tu llegada al mundo para caminar juntos por un nuevo camino
 
 ![embarazada][path]
 ![embarazada][path2]
