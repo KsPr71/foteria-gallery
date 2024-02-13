@@ -21,7 +21,8 @@ export default defineConfig({
 						{ label: 'Ya voy a la escuela', link: '/catalogo/escuela/' },
 						{ label: 'Adolescentes', link: '/catalogo/adolescentes/' },
 						{ label: 'Recuerdos de mi embarazo', link: '/catalogo/embarazada/'},
-						{ label: 'La familia', link: '/catalogo/familia/'}
+						{ label: 'La familia', link: '/catalogo/familia/'},
+						{ label: 'Exteriores', link: '/catalogo/exteriores/'}
 						
 					],
 				},

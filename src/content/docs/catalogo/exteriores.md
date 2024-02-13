@@ -1,5 +1,5 @@
 ---
-title: 'Extariores'
+title: 'Exteriores'
 pubDate: 2024-Febrero
 description: 'Adolescentes'
 author: 'La Foteria'
