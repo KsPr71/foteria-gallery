@@ -31,7 +31,8 @@ export default defineConfig({
 					items: [
 						{label: 'Princesas de Disney', link: '/catalogo/disney/'},
 						{label: 'Mi futura profesión', link: '/catalogo/profesiones/'},
-						{label: 'Junto a mis mascotas', link: '/catalogo/mascotas/'}
+						{label: 'Junto a mis mascotas', link: '/catalogo/mascotas/'},
+						{label: 'Diseños especiales', link: '/catalogo/especiales/'}
 
 				],
 				},

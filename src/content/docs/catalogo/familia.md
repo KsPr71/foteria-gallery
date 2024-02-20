@@ -19,6 +19,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![familia][path4]
 ![familia][path5]
 ![familia][path6]
+![familia][path7]
 
 [path]: ../../../assets/familia/01.webp
 [path2]: ../../../assets/familia/02.webp
@@ -26,3 +27,4 @@ tags: ["astro", "bloguear", "aprender en público"]
 [path4]: ../../../assets/familia/04.webp
 [path5]: ../../../assets/familia/05.webp
 [path6]: ../../../assets/familia/06.webp
+[path7]: ../../../assets/familia/07.webp
