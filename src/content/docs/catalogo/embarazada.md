@@ -22,6 +22,7 @@ tags: ["astro", "bloguear", "aprender en público"]
 ![embarazada][path7]
 ![embarazada][path8]
 ![embarazada][path9]
+![embarazada][path10]
 
 [path]: ../../../assets/embarazada/01.webp
 [path2]: ../../../assets/embarazada/02.webp
@@ -32,3 +33,4 @@ tags: ["astro", "bloguear", "aprender en público"]
 [path7]: ../../../assets/embarazada/07.webp
 [path8]: ../../../assets/embarazada/08.webp
 [path9]: ../../../assets/embarazada/09.webp
+[path10]: ../../../assets/embarazada/10.webp
